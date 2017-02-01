@@ -6,7 +6,7 @@ This tool will convert each image reference in Markdown file to local image refe
 ## How To Use
 Run this program on terminal like this
 
-	$ markdown-images-dumper 
+	$ markdown-images-dumper.py
 
 or double click it on GUI.
 
