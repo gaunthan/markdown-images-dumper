@@ -12,8 +12,7 @@ or double click it on GUI.
 
 After program started, you would be asked to specific the working directory and dump path.Then it will searching the working directory, and deal with every `.md` file:
 
-![](Screenshots/Screenshot-demo.png
-
+![](Screenshots/Screenshot-demo.png)
 ## Environment dependent
 
 - Python 2.7 interpreter
